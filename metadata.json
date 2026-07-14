@@ -1,6 +1,0 @@
-{
-  "name": "天启量子引擎",
-  "description": "集成了自动Token续期、钻石量子生成、卡牌全量解锁及全英雄协议等功能的量子超算引擎。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
