@@ -2,7 +2,7 @@
     "need_app_version": "1.0",
     "ctrl_num": 1,
     "new_title": "今日公告（请认真阅读）",
-    "new_content": "欢迎使用",
+    "new_content": "欢迎使用,注意事项：使用高级功能，需要安装抓包工具Httpcarry(小黄鸟)，抓取Token，填入Token才能使用，不会抓包的用户请看内置抓包教程视频和应用使用教程视频，有任何问题可以咨询本人哔哩哔哩和抖音搜：黄昏和我/QQ号：2337276637"。
     "nomm_on": "2",
     "new_cancel_text": "关闭",
     "new_ok_text": "",
